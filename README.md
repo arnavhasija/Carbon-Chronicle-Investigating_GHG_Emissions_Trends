@@ -14,3 +14,13 @@ The primary objective of this project is to analyze trends in CO2 and greenhouse
 - Investigating cumulative emissions to assess historical contributions to the global carbon budget.
 - Exploring the relationship between emissions and other socio-economic factors such as population, GDP, and energy consumption.
 - Assessing the impact of emissions on global temperature change and climate variability.
+
+<h2>Approach</h2>
+
+<b>Data Acquisition:</b> The dataset used for this analysis is sourced from Our World in Data, providing comprehensive data on CO2 emissions, other greenhouse gases, and related metrics across various countries and years.
+
+<b>Data Exploration with SQL Queries:</b> SQL queries are utilized to explore and manipulate the dataset, enabling me to calculate aggregate metrics, extract relevant subsets of data, and perform calculations such as cumulative emissions over specific time periods. This approach allows for efficient data processing and enables us to derive meaningful insights from the dataset.
+
+<b>Data Visualization:</b> The processed data is visualized using Matplotlib to create insightful charts and graphs. Visualizations such as time series plots, bar charts, and heatmaps are employed to illustrate emission trends, compare emissions across countries, and visualize historical contributions to the global carbon budget. These visualizations provide a clear and intuitive representation of the data, facilitating easier interpretation and understanding of the trends.
+
+<b>Analysis and Interpretation:</b> Through the combination of SQL queries and data visualizations, I will analyze the trends in annual CO2 emissions, assess factors driving these trends, and explore variations in emissions across different countries and regions. Additionally, I will investigate historical contributions to the global carbon budget, identifying countries with the highest cumulative emissions over specific time periods.
