@@ -24,3 +24,12 @@ The primary objective of this project is to analyze trends in CO2 and greenhouse
 <b>Data Visualization:</b> The processed data is visualized using Matplotlib to create insightful charts and graphs. Visualizations such as time series plots, bar charts, and heatmaps are employed to illustrate emission trends, compare emissions across countries, and visualize historical contributions to the global carbon budget. These visualizations provide a clear and intuitive representation of the data, facilitating easier interpretation and understanding of the trends.
 
 <b>Analysis and Interpretation:</b> Through the combination of SQL queries and data visualizations, I will analyze the trends in annual CO2 emissions, assess factors driving these trends, and explore variations in emissions across different countries and regions. Additionally, I will investigate historical contributions to the global carbon budget, identifying countries with the highest cumulative emissions over specific time periods.
+
+<h2>Exploratory Data Analysis</h2>
+
+The graph below portrays total CO2 emissions by country and emission type. The USA and China dominate the emissions landscape, with the USA’s consumption-based emissions standing out in orange. The energy-intensive industries like steel, cement, and chemicals in the US, emit substantial CO2 during production. China on the other hand, is the world’s largest manufacturing hub, producing goods for global markets. Its production-based emissions stem from industrial processes, including steel, cement, and textiles. Russia’s vast land area and natural resource wealth contribute to its production of oil, gas, and metals.
+
+<p align="center">
+  <br>
+  <img src="/images/img2.JPG">
+</p>
