@@ -27,7 +27,14 @@ The primary objective of this project is to analyze trends in CO2 and greenhouse
 
 <h2>Exploratory Data Analysis</h2>
 
-The graph below portrays total CO2 emissions by country and emission type. The USA and China dominate the emissions landscape, with the USA’s consumption-based emissions standing out in orange. The energy-intensive industries like steel, cement, and chemicals in the US, emit substantial CO2 during production. China on the other hand, is the world’s largest manufacturing hub, producing goods for global markets. Its production-based emissions stem from industrial processes, including steel, cement, and textiles. Russia’s vast land area and natural resource wealth contribute to its production of oil, gas, and metals.
+The graph below shows the trend of CO2 emissions from 1920 to slightly beyond 2020. Overall there has been a significant increase in emission levels over the last century. In addition, there is a noticeable increase in emissions starting around the year 1960, which correlates with the post-industrial era, characterized by rapid industrialization and increased use of fossil fuels. It is important to understand the underlying factors contributing to the rise in emissions which could involve exploring the impact of economic growth, energy consumption patterns, and technological advancements on CO2 emissions.
+
+<p align="center">
+  <br>
+  <img src="/images/img3.JPG">
+</p>
+
+Next, I also looked at the total CO2 emissions by country and emission type as shown in the chart below. The USA and China dominate the emissions landscape, with the USA’s consumption-based emissions standing out in orange. The energy-intensive industries like steel, cement, and chemicals in the US, emit substantial CO2 during production. China on the other hand, is the world’s largest manufacturing hub, producing goods for global markets. Its production-based emissions stem from industrial processes, including steel, cement, and textiles. Russia’s vast land area and natural resource wealth contribute to its production of oil, gas, and metals.
 
 <p align="center">
   <br>
