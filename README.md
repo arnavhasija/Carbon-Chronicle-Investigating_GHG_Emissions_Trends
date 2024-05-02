@@ -40,3 +40,10 @@ Next, I also looked at the total CO2 emissions by country and emission type as s
   <br>
   <img src="/images/img2.JPG">
 </p>
+
+The donut chart below illustrates the contribution of various sources to the total CO2 emissions. Consumption is the largest contributor, accounting for 34% of the emissions. This category likely includes emissions from everyday activities, such as transportation, household energy use, and industrial processes. Areas with higher population density tend to have more consumption-related emissions due to increased energy demand. Coal follows closely, contributing 31%. Coal-fired power plants and industrial processes are major sources of CO2 emissions in this category. Countries heavily reliant on coal-based power plants have higher coal-related emissions, and industries like steel and cement rely on coal for production. Oil accounts for 22%, primarily from transportation (gasoline and diesel), industrial processes, and petrochemicals and refineries that rely on oil. Natural gas contributes 10% and is used for electricity generation, heating, and industrial applications. Cement production and flaring make up smaller portions, while trade-related emissions are also present.
+
+<p align="center">
+  <br>
+  <img src="/images/img4.JPG">
+</p>
